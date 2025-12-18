@@ -2,7 +2,7 @@
 
 ## Run Instructions 
 1. Seeds are set within the codes. 
-2. git clone git clone https://github.gatech.edu/gt-omscs-ml/cs-7641-2025-fall-qlim7.git
+2. git clone git clone https://github.com/qindalim/govtech-takehome.git
 3. cd section-2-case-study
 4. conda create -n venv python=3.10
 5. conda activate venv
