@@ -8,3 +8,11 @@
 5. conda activate venv
 6. pip install -r requirements.txt 
 7. python s1q1_hdb.py (or run s1q1_hdb.ipynb in Jupyter)
+
+## Datasets
+1. Resale flat prices based on registration date from Jan-2017 onwards.csv
+https://data.gov.sg/collections/189/view
+2. CEASalespersonsPropertyTransactionRecordsresidential.csv
+https://data.gov.sg/datasets/d_ee7e46d3c57f7865790704632b0aef71/view
+
+Note: Datasets are not uploaded due to the large size. 
